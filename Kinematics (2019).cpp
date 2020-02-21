@@ -1,3 +1,6 @@
+//Adil Zafar Khan
+// Date: 12/ 12/ 19
+// The program computes any complex kinematics that can be calcultaed from any set of given variables.
 #include<iostream>
 #include<iomanip>
 #include<sstream>
