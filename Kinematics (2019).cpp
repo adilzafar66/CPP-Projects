@@ -12,7 +12,7 @@
 #include <map>
 #include <list>
 #include <set>
-#include "kine.hpp"
+#include "Kinematics.hpp"
 
 void cinfix()
 {
